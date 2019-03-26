@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Windows.Input;
 
-namespace Phoneword
+namespace Xamarin.MVVM
 {
     public class RelayCommand:ICommand
     {

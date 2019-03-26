@@ -1,6 +1,6 @@
-﻿using System.ComponentModel;
+using System.ComponentModel;
 
-namespace Phoneword
+namespace Xamarin.MVVM
 {
     public class ObservableProperty:INotifyPropertyChanged
     {
